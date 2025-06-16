@@ -45,7 +45,7 @@ const Testimonials = () => {
                       key={i}
                       name="Star"
                       size={16}
-                      className="text-yellow-400 fill-current"
+                      className="text-primary fill-current"
                     />
                   ))}
                 </div>
